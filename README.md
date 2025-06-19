@@ -1,6 +1,6 @@
 ##This is to be used for your local dev/testing only##
 
-## CockroachDB DevMode Cluster (3 Nodes, Podman)
+## CockroachDB Cluster - DevMode(3 Nodes, Podman)
 
 A simple local 3-node CockroachDB cluster for development using Podman and podman-compose.
 
